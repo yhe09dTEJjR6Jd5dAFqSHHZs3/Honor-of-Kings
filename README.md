@@ -1,4 +1,4 @@
-# 王者荣耀 Honor of Kings
+# AI玩王者荣耀
 
 准备：
 
